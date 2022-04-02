@@ -3,7 +3,7 @@
  ## 🏆EXPLORATION🏆 (2022_01_04 ~ 2022_03_14)
 
 | NO. | TITLE | CONTENTS | PROJECT_CODE | PRACTICE_CODE |
-| ----- | ---------------------- | ---------------------- |----- |----- |
+| ----- | ---------------------- | ---------------------- |----|----|
 | 1 | 인공지능과 가위바위보 하기 |  Image Classification | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_01%5Drock_scissor_paper/%5BEX_01%5DRock_Scissor_paper.ipynb)| [✏️](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_01%5Drock_scissor_paper/%5BEX_01%5DRockSicssorpaper(practice).ipynb), [✏️](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_01%5Drock_scissor_paper/%5BE_01%5DRockSicssorpaper(failed).ipynb) |
 | 2 | Iris의 세 가지 품종, 분류해볼 수 있겠어요? | Classification | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_02%5D_Iris/%5BEX_02%5D_load_digits_01.ipynb), [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_02%5D_Iris/%5BEX_02%5D_load_wine_02.ipynb), [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_02%5D_Iris/%5BEX_03%5D_load_breast_cancer_03.ipynb) | [✏️](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_02%5D_Iris/%5BEX_02%5DIris(practice).ipynb)|
 | 3 | 카메라 스티커앱 만들기 첫걸음 | Face Detection | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_03%5DFace_sticker/%5BEX_03%5DFace_Sticker.ipynb)| [✏️](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_03%5DFace_sticker/%5BEX_03%5DFace_Sticker(practice).ipynb)|
@@ -26,7 +26,7 @@
 
  ## 📋FUNDAMENTAL📋 (2021_12_27 ~ 2022_02_25)
  | NO. | TITLE | CONTENTS | PRACTICE_CODE |
- | ----- | ---------------------- | ---------------------- |----- |
+ | ----- | ---------------------- | ---------------------- |----|
  | 1 | Ready to go? | LMS, Cloud Jupyter |  |
  | 2 | 인공지능 개발자가 되기 위한 위대한 첫 걸음 | CLI, Anaconda |  |
  | 3 | 터미널로 배우는 리눅스 운영체제 | OS, Linux |  |
@@ -63,7 +63,7 @@
 
  ## 🔍GOING_DEEPER (CV) [LECTURE] 🔍 (2022_3_15 ~ )
  | NO. | TITLE | CONTENTS | PRACTICE_CODE |
- | ----- | ---------------------- | ---------------------- |----- |
+ | ----- | ---------------------- | ---------------------- |----|
  | 1 | 백본 네트워크 구조 상세분석 |  |  |
  | 3 | 잘 만든 Augmentation, 이미지 100장 안 부럽다 |  |  |
  | 5 | 너의 속이 궁금해 - Class Activation Map 살펴보기 |  |  |
@@ -73,7 +73,7 @@
  
  ## 💡GOING_DEEPER (CV) [PROJECT] 💡 (2022_3_16 ~ )
  | NO. | TITLE | CONTENTS | PROJECT_CODE | PRACTICE_CODE |
- | ----- | ---------------------- | ---------------------- |----- |----- |
+ | ----- | ---------------------- | ---------------------- |----|----|
  | 2 | 없다면 어떻게 될까? (ResNet Ablation Study) |  | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/GoingDeeper(project)/%5BGD_02%5DResNet_Ablation_Study/%5BGD_02%5DResNet_Ablation_Study.ipynb)| [✏️](https://github.com/junnnn-a/Aiffel-Project/blob/main/GoingDeeper(project)/%5BGD_02%5DResNet_Ablation_Study/%5BGD_02%5DResNet_Ablation_Study(practice).ipynb)  |
  | 4 | 이미지 어디까지 우려볼까? |  | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/GoingDeeper(project)/%5BGD_04%5DCutMix_or_Mixup/%5BGD_04%5DCutMix_or_Mixup.ipynb)| [✏️](https://github.com/junnnn-a/Aiffel-Project/blob/main/GoingDeeper(project)/%5BGD_04%5DCutMix_or_Mixup/%5BGD_04%5DCutMix_or_Mixup(practice).ipynb) |
  | 6 | 나를 찾아줘 - Class Activation Map 만들기 |  |  |  |
