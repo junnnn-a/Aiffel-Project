@@ -22,6 +22,7 @@
 | 16 | 다음에 볼 영화 예측하기 | Session-based RecSys | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_16%5DMovielens_SBR/%5BEX_16%5DMovielens_SBR.ipynb)|  [✏️](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_16%5DMovielens_SBR/%5BEX_16%5DMovielens_SBR(practice).ipynb)|
 | 17 | 난 스케치를 할 테니 너는 채색을 하거라 | Conditioanl GAN | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_17%5DSegmentation_map_roadmap/%5BEX_17%5DSegmentation_map_roadmap.ipynb)|  |
 
+-------------------------------------------------------------------------------------------------------------
 
  ## 📋FUNDAMENTAL📋 (2021_12_27 ~ 2022_02_25)
  | NO. | TITLE | CONTENTS | PRACTICE_CODE |
