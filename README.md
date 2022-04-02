@@ -10,3 +10,9 @@
 | 4 | 작사가 인공지능 만들기 | Text Generation | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_04%5DMake_lyricist/%5BEX_04%5DMake_a_lyricist.ipynb)|
 | 5 | 나의 첫 번째 캐글 경진대회, 무작정 따라해보기 | Kaggle | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_05%5DKaggle/%5BEX_05%5DKaggle2.ipynb)|
 | 6 | 영화리뷰 텍스트 감성분석하기 | Text Classification | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_06%5DMovie_Review/%5BEX_06%5DMovie_Review.ipynb)|
+| 7 | 인물사진을 만들어 보자 |  Image Segmentation | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_07%5DMake_human_segmentation/%5BEX_07%5DMake_human_segmentation.ipynb)|
+| 8 | 뉴스 요약봇 만들기 | Text Summarization | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_08%5DNews_summary/%5BEX_08%5DNews_summary.ipynb)|
+| 9 | 폐렴아 기다려라! | Medical Image Analysis | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_09%5DChest_Xray/%5BEX_09%5DChest_Xray.ipynb)|
+| 10 | 인공지능으로 세상에 없던 새로운 패션 만들기 | 	DCGAN | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_10%5Ddcgan_newimage_fashion/%5BEX_10%5Ddcgan_newimage_fashion.ipynb)|
+| 11 | 어제 오른 내 주식, 과연 내일은? | 	Time Series Forecasting | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_11%5Dstock_prediction/%5BEX_11%5Dstock_prediction.ipynb)|
+| 12 | 트랜스포머로 만드는 대화형 챗봇 | 	Transformer | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_12%5DTransformer_Chatbot/%5BEX_12%5DTransformer_Chatbot.ipynb)|
