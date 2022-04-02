@@ -1,5 +1,5 @@
 ﻿# Aiffel-Project
  
- ## Ex 1 가위바위보
+ ## EXPLORATION
+ ### (2022_01_04 ~ 2022_03_14)
  
-
