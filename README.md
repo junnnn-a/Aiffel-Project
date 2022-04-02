@@ -16,3 +16,10 @@
 | 10 | 인공지능으로 세상에 없던 새로운 패션 만들기 | 	DCGAN | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_10%5Ddcgan_newimage_fashion/%5BEX_10%5Ddcgan_newimage_fashion.ipynb)|
 | 11 | 어제 오른 내 주식, 과연 내일은? | 	Time Series Forecasting | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_11%5Dstock_prediction/%5BEX_11%5Dstock_prediction.ipynb)|
 | 12 | 트랜스포머로 만드는 대화형 챗봇 | 	Transformer | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_12%5DTransformer_Chatbot/%5BEX_12%5DTransformer_Chatbot.ipynb)|
+| 13 | 인간보다 퀴즈를 잘푸는 인공지능 | 	BERT | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_13%5DBert_QnA/%5BEX_13%5DBert_QnA.ipynb)|
+| 14 | 아이유팬이 좋아할 만한 다른 아티스트 찾기 | Recommender System | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_14%5DMovie_Recommendations/%5BEX_14%5DMovie_Recommendations.ipynb)|
+| 15 | 문자를 읽을 수 있는 딥러닝 | OCR | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_15%5DComparing%20OCR%20models/%5BEX_15%5DComparing%20OCR%20models.ipynb)|
+| 16 | 다음에 볼 영화 예측하기 | Session-based RecSys | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_15%5DComparing%20OCR%20models/%5BEX_15%5DComparing%20OCR%20models.ipynb)|
+| 17 | 난 스케치를 할 테니 너는 채색을 하거라 | Conditioanl GAN | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/Exploration/%5BEX_17%5DSegmentation_map_roadmap/%5BEX_17%5DSegmentation_map_roadmap.ipynb)|
+
+
