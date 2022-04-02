@@ -61,7 +61,7 @@
 
 -------------------------------------------------------------------------------------------------------------
 
- ## 🔍GOING_DEEPER (CV) [LECTURE] 🔍 (2022_3_15 ~ )
+ ## 🔍GOING_DEEPER (CV) [LECTURE]🔍 (2022_3_15 ~ )
  | NO. | TITLE | CONTENTS | PRACTICE_CODE |
  | ----- | ---------------------- | ---------------------- |----|
  | 1 | 백본 네트워크 구조 상세분석 |  |  |
@@ -71,7 +71,7 @@
  
  -------------------------------------------------------------------------------------------------------------
  
- ## 💡GOING_DEEPER (CV) [PROJECT] 💡 (2022_3_16 ~ )
+ ## 💡GOING_DEEPER (CV) [PROJECT]💡 (2022_3_16 ~ )
  | NO. | TITLE | CONTENTS | PROJECT_CODE | PRACTICE_CODE |
  | ----- | ---------------------- | ---------------------- |----|----|
  | 2 | 없다면 어떻게 될까? (ResNet Ablation Study) |  | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/GoingDeeper(project)/%5BGD_02%5DResNet_Ablation_Study/%5BGD_02%5DResNet_Ablation_Study.ipynb)| [✏️](https://github.com/junnnn-a/Aiffel-Project/blob/main/GoingDeeper(project)/%5BGD_02%5DResNet_Ablation_Study/%5BGD_02%5DResNet_Ablation_Study(practice).ipynb)  |
