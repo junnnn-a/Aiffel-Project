@@ -27,41 +27,54 @@
  ## 📋FUNDAMENTAL📋 (2021_12_27 ~ 2022_02_25)
  | NO. | TITLE | CONTENTS | PRACTICE_CODE |
  | ----- | ---------------------- | ---------------------- |----- |
- | 1 | Ready to go? | LMS, Cloud Jupyter | |
- | 2 | 인공지능 개발자가 되기 위한 위대한 첫 걸음 | CLI, Anaconda | |
- | 3 | 터미널로 배우는 리눅스 운영체제 | OS, Linux | |
- | 4 | 개발자를 위한 첫 번째 필수 교양 | Git, GitHub | |
- | 5 | 날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명? | Kaggle, EDA | |
- | 6 | 파이썬으로 코딩 시작하기 | Python, Data Type, Function | |
- | 7 | 텍스트의 다양한 변신 (문자열, 파일 다루기) | Python, String, File, Module | |
- | 8 | 파이썬 잘하는 척 해보자 | Python, For Loop, Try-Except, Lambda | |
- | 9 | Data 어떻게 표현하면 좋을까? 배열(array)과 표(table) | Numpy, Pandas | |
- | 10 | 다양한 데이터 전처리 기법 | EDA, Data Preprocessing, Outlier, Normalization, One-Hot Encoding, Binning | |
- | 11 | 데이터를 한눈에! Visualization | Pandas, Matplotlib, Seaborn | |
- | 12 | 사이킷런으로 구현해 보는 머신러닝 | ML, Scikit-learn | |
- | 13 | 당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기 | Python, OOP | |
- | 14 | 거울아 거울아, 나는 멍멍이 상이니, 아니면 냥이 상이니? | DL, Model, Supervised Learning, Classification | |
- | 15 | 🦄 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리 | Kaggle, EDA | |
- | 16 | 파이썬으로 이미지 파일 다루기 | pillow, CV | |
- | 17 | 딥러닝과 신경망의 본질 | DL, NN | |
- | 18 | 딥러닝 들여다보기 | DL, Numpy | |
- | 19 | 선형 회귀와 로지스틱 회귀 | ML, Supervised Learning, Regression | |
- | 20 | 비지도학습 | ML, Unsupervised Learning | |
- | 21 | TF2 API 개요 | DL, Keras | |
- | 22 | 딥네트워크, 서로 뭐가 다른 거죠? | DL, CV, CNN, Models | |
- | 23 | 딥러닝 레이어의 이해(1) Linear, Convolution | DL, CNN | |
- | 24 | 딥러닝 레이어의 이해(2) Embedding, Recurrent | DL, RNN | |
- | 25 | Regularization | DL, Regularization | |
- | 26 | 활성화 함수의 이해 | DL, Activation Functions | |
- | 27 | Likelihood(MLE와 MAP) | ML, Likelihood, MLE, MAP | |
- | 28 | 정보이론 톺아보기 | ML, Information Theory, Entropy, Cross Entropy, KL divergence | |
- | 29 | 사이킷런을 활용한 추천 시스템 입문 | ML/DL, NLP, Recommendation System, Scikit-learn | |
- | 30 | 컴퓨터 파워 UP | Python, Multitasking | |
- | 31 | 뉴스기사 크롤링 및 분류 | ML, Crawling | |
+ | 1 | Ready to go? | LMS, Cloud Jupyter |  |
+ | 2 | 인공지능 개발자가 되기 위한 위대한 첫 걸음 | CLI, Anaconda |  |
+ | 3 | 터미널로 배우는 리눅스 운영체제 | OS, Linux |  |
+ | 4 | 개발자를 위한 첫 번째 필수 교양 | Git, GitHub |  |
+ | 5 | 날씨 좋은 월요일 오후 세 시, 자전거 타는 사람은 몇 명? | Kaggle, EDA |  |
+ | 6 | 파이썬으로 코딩 시작하기 | Python, Data Type, Function |  |
+ | 7 | 텍스트의 다양한 변신 (문자열, 파일 다루기) | Python, String, File, Module |  |
+ | 8 | 파이썬 잘하는 척 해보자 | Python, For Loop, Try-Except, Lambda |  |
+ | 9 | Data 어떻게 표현하면 좋을까? 배열(array)과 표(table) | Numpy, Pandas |  |
+ | 10 | 다양한 데이터 전처리 기법 | EDA, Data Preprocessing, Outlier, Normalization, One-Hot Encoding, Binning |  |
+ | 11 | 데이터를 한눈에! Visualization | Pandas, Matplotlib, Seaborn |  |
+ | 12 | 사이킷런으로 구현해 보는 머신러닝 | ML, Scikit-learn |  |
+ | 13 | 당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기 | Python, OOP |  |
+ | 14 | 거울아 거울아, 나는 멍멍이 상이니, 아니면 냥이 상이니? | DL, Model, Supervised Learning, Classification |  |
+ | 15 | 🦄 가랏, 몬스터볼! 전설의 포켓몬 찾아 삼만리 | Kaggle, EDA |  |
+ | 16 | 파이썬으로 이미지 파일 다루기 | pillow, CV |  |
+ | 17 | 딥러닝과 신경망의 본질 | DL, NN |  |
+ | 18 | 딥러닝 들여다보기 | DL, Numpy |  |
+ | 19 | 선형 회귀와 로지스틱 회귀 | ML, Supervised Learning, Regression |  |
+ | 20 | 비지도학습 | ML, Unsupervised Learning |  |
+ | 21 | TF2 API 개요 | DL, Keras |  |
+ | 22 | 딥네트워크, 서로 뭐가 다른 거죠? | DL, CV, CNN, Models |  |
+ | 23 | 딥러닝 레이어의 이해(1) Linear, Convolution | DL, CNN |  |
+ | 24 | 딥러닝 레이어의 이해(2) Embedding, Recurrent | DL, RNN |  |
+ | 25 | Regularization | DL, Regularization |  |
+ | 26 | 활성화 함수의 이해 | DL, Activation Functions |  |
+ | 27 | Likelihood(MLE와 MAP) | ML, Likelihood, MLE, MAP |  |
+ | 28 | 정보이론 톺아보기 | ML, Information Theory, Entropy, Cross Entropy, KL divergence |  |
+ | 29 | 사이킷런을 활용한 추천 시스템 입문 | ML/DL, NLP, Recommendation System, Scikit-learn |  |
+ | 30 | 컴퓨터 파워 UP | Python, Multitasking |  |
+ | 31 | 뉴스기사 크롤링 및 분류 | ML, Crawling |  |
 
 -------------------------------------------------------------------------------------------------------------
 
- ## 📋GOING_DEEPER (CV) <LECTURE> 📋 (2021_12_27 ~ 2022_02_25)
+ ## 🔍GOING_DEEPER (CV) <LECTURE> 🔍 (2022_3_15 ~ )
  | NO. | TITLE | CONTENTS | PRACTICE_CODE |
  | ----- | ---------------------- | ---------------------- |----- |
- | 1 | 백본 네트워크 구조 상세분석 |  | |
+ | 1 | 백본 네트워크 구조 상세분석 |  |  |
+ | 3 | 잘 만든 Augmentation, 이미지 100장 안 부럽다 |  |  |
+ | 5 | 너의 속이 궁금해 - Class Activation Map 살펴보기 |  |  |
+ | 7 | Object Detection |  |  |
+ 
+ -------------------------------------------------------------------------------------------------------------
+ 
+ ## 💡GOING_DEEPER (CV) <PROJECT> 💡 (2022_3_16 ~ )
+ | NO. | TITLE | CONTENTS | PROJECT_CODE | PRACTICE_CODE |
+ | ----- | ---------------------- | ---------------------- |----- |----- |
+ | 2 | 없다면 어떻게 될까? (ResNet Ablation Study) |  |  |
+ | 4 | 이미지 어디까지 우려볼까? |  |  |
+ | 6 | 나를 찾아줘 - Class Activation Map 만들기 |  |  |
+ | 8 | GO/STOP! - Object Detection 시스템 만들기 |  |  |
