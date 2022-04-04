@@ -76,5 +76,5 @@
  | ----- | ---------------------- | ---------------------- |----|----|
  | 2 | 없다면 어떻게 될까? (ResNet Ablation Study) |  | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/GoingDeeper(project)/%5BGD_02%5DResNet_Ablation_Study/%5BGD_02%5DResNet_Ablation_Study.ipynb)| [✏️](https://github.com/junnnn-a/Aiffel-Project/blob/main/GoingDeeper(project)/%5BGD_02%5DResNet_Ablation_Study/%5BGD_02%5DResNet_Ablation_Study(practice).ipynb)  |
  | 4 | 이미지 어디까지 우려볼까? |  | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/GoingDeeper(project)/%5BGD_04%5DCutMix_or_Mixup/%5BGD_04%5DCutMix_or_Mixup.ipynb)| [✏️](https://github.com/junnnn-a/Aiffel-Project/blob/main/GoingDeeper(project)/%5BGD_04%5DCutMix_or_Mixup/%5BGD_04%5DCutMix_or_Mixup(practice).ipynb) |
- | 6 | 나를 찾아줘 - Class Activation Map 만들기 |  |  |  |
+ | 6 | 나를 찾아줘 - Class Activation Map 만들기 |  | [✅](https://github.com/junnnn-a/Aiffel-Project/blob/main/GoingDeeper(project)/%5BGD_06%5DClass_Activation_map/%5BGD_06%5DClass_Activation_map.ipynb) | [✏️](https://github.com/junnnn-a/Aiffel-Project/blob/main/GoingDeeper(project)/%5BGD_06%5DClass_Activation_map/%5BGD_06%5DClass_Activation_map(pratice).ipynb) |
  | 8 | GO/STOP! - Object Detection 시스템 만들기 |  |  |  |
